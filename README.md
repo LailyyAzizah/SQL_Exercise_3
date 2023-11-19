@@ -2,4 +2,5 @@
 
 This exercise describes SQL query about how to display some information that you needed using SELECT command.
 
-Thank you for visitung!
+Thank you for visiti
+ng!
